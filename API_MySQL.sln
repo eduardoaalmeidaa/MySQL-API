@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_MySQL", "API_MySQL\API_MySQL.csproj", "{E7EDB472-5F91-44E2-BDF5-85E349D7DAE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7EDB472-5F91-44E2-BDF5-85E349D7DAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7EDB472-5F91-44E2-BDF5-85E349D7DAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7EDB472-5F91-44E2-BDF5-85E349D7DAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7EDB472-5F91-44E2-BDF5-85E349D7DAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D773310-3C68-4F36-A611-5C2F4B4022B4}
+	EndGlobalSection
+EndGlobal

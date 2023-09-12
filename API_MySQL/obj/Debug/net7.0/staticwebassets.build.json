@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nE/Tc80YDHD5o9VvAzXqDD+7sA5HV5kyCa2vcNtlXoo=",
+  "Source": "API_MySQL",
+  "BasePath": "_content/API_MySQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
